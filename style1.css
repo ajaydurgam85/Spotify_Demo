@@ -132,4 +132,9 @@ nav ul li{
         background-color: red;
     }
 
+.songInfo{
+    margin-top: 0px;
+    height: 55px;
+}
+
 }
